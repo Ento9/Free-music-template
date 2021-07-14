@@ -1,0 +1,54 @@
+body {
+    font-family: Verdana;
+   
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+
+header,footer {
+  position: absolute;
+  background-color: #000000;
+  width: 100%;
+  color: white;#00CBFF
+}
+
+header h2 {
+  font-family: 'Otomanopee One', sans-serif;
+  position: absolute;
+  margin-top: 20px;
+  left: 5%;
+  font-size: 45px;
+  background-color: #272727;
+  border-radius: 1rem;
+}
+
+p {
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+header {
+  height: 10vh;
+}
+
+footer {
+  height: 15vh;
+  bottom: -40px;
+}
+
+footer h2 {
+  position: absolute;
+  left: 45%;
+  background-color: black;
+}
+
+
+
+
+
